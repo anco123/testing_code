@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79bc81af-7d7c-4fd1-950e-e6566b963e6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SimpleProject-servlet-jsp-jdbc" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleProject-servlet-jsp-jdbc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-jdbc" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-jdbc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springwebCodeAChung/SpringCoreContextConfix" beforeDir="false" afterPath="$PROJECT_DIR$/../../springwebCodeAChung/SpringCoreContextConfix" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1V95AY6yh1LwFFK5fMoryLIgXIr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79bc81af-7d7c-4fd1-950e-e6566b963e6c" name="Default Changelist" comment="" />
+      <created>1576652326187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576652326187</updated>
+      <workItem from="1576652327327" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
