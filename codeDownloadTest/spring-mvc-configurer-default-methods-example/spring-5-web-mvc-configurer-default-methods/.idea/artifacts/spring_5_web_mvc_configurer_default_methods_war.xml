@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-5-web-mvc-configurer-default-methods:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring-5-web-mvc-configurer-default-methods</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring-5-web-mvc-configurer-default-methods-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-5-web-mvc-configurer-default-methods:war exploded" />
+    </root>
+  </artifact>
+</component>
